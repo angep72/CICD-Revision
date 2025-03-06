@@ -23,7 +23,7 @@
 
 An SAP Fiori application.
 
-### Starting the generated app
+### Starting the generate app
 
 -   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply run the following from the generated app root folder:
 
