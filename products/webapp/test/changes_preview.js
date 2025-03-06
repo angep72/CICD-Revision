@@ -1,4 +1,4 @@
-//Load the fake lrep connector only if ui5 version < 1.78
+//Load the fake lrep connector only if ui5 version < 1.78ue
 var version = sap.ui.version.split(".");
 if (parseInt(version[0], 10) <= 1 && parseInt(version[1], 10) < 78) {
     sap.ui.getCore().loadLibraries(["sap/ui/fl"]);
